@@ -1,0 +1,31 @@
+customerID,Satisfaction,Loyalty,Predicted Cluster,Action
+A00001,4,-1.33,ALIENATED,Survey
+A00002,6,-0.28,ROAMERS,Monthly Discount Coupon
+A00003,5,-0.99,ALIENATED,Survey
+A00004,7,-0.29,ROAMERS,Monthly Discount Coupon
+A00005,4,1.06,SUPPORTERS,Shipping Service Selection
+A00006,1,-1.66,ALIENATED,Survey
+A00007,10,-0.97,ROAMERS,Monthly Discount Coupon
+A00008,8,-0.32,ROAMERS,Monthly Discount Coupon
+A00009,8,1.02,FANS,Free Gift
+A00010,8,0.68,FANS,Free Gift
+A00011,10,-0.34,ROAMERS,Monthly Discount Coupon
+A00012,5,0.39,SUPPORTERS,Shipping Service Selection
+A00013,5,-1.69,ALIENATED,Survey
+A00014,2,0.67,SUPPORTERS,Shipping Service Selection
+A00015,7,0.27,ROAMERS,Monthly Discount Coupon
+A00016,9,1.36,FANS,Free Gift
+A00017,8,1.38,FANS,Free Gift
+A00018,7,1.36,FANS,Free Gift
+A00019,7,-0.34,ROAMERS,Monthly Discount Coupon
+A00020,9,0.67,FANS,Free Gift
+A00021,10,1.18,FANS,Free Gift
+A00022,3,-1.69,ALIENATED,Survey
+A00023,4,1.04,SUPPORTERS,Shipping Service Selection
+A00024,3,-0.96,ALIENATED,Survey
+A00025,6,1.03,SUPPORTERS,Shipping Service Selection
+A00026,9,-0.99,ROAMERS,Monthly Discount Coupon
+A00027,10,0.37,FANS,Free Gift
+A00028,9,0.03,ROAMERS,Monthly Discount Coupon
+A00029,3,-1.36,ALIENATED,Survey
+A00030,5,0.73,SUPPORTERS,Shipping Service Selection
